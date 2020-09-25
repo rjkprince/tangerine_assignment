@@ -1,0 +1,11 @@
+.App {
+  padding: 30px;
+  margin-top: 50px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.LoginForm {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
